@@ -1,4 +1,4 @@
-# growth mindset 📈 🧠
+# Growth mindset 📈 🧠
 
  After reading about **Growth Mindset** in my opinion it is not about being genius or being talented, but it is about the effort and the hard work that you put in something to gain new knowledge, achieve your goals, or even learning a new skill that will help you in future, without saying that you can't be like others because they are talented but you are not. Of course talent can help but even talented people need to work hard to keep that talent or they will lose it over the time.
  
