@@ -8,5 +8,5 @@ here is my github link: 💙
 
 | File name | Links to visit the files |
 | --- | ----------- |
-| Growth mindset | [Growth mindset link](https://ziyadhs.github.io/Read-Notes-/growth%20mindset) |
-| Read: 01 - Learning Markdown | [Read 01 link](https://ziyadhs.github.io/Read-Notes-/Read:%2001%20-%20Learning%20Markdown) |
+| Growth mindset | [Growth mindset link](https://ziyadhs.github.io/Read-Notes/growth%20mindset) |
+| Read: 01 - Learning Markdown | [Read 01 link](https://ziyadhs.github.io/Read-Notes/Read:%2001%20-%20Learning%20Markdown) |
