@@ -1,10 +1,14 @@
 # About markdown 
 
+![Markdown picture](https://document360.com/wp-content/uploads/2020/02/Introductory-Guide-to-Markdown-for-Documentation-Writers-01.jpg)
+
 I learned that markdown language is a language that web writers use to right texts on the web with the ability of controlling how the text style will be, it doesn't require from the user to know any other languages to use it liks CSS or HTML or any programming languages like java script.
 
 With it's syntax you can change the text style for example make the text **bold** or *italic* or allow you to add links or images, and the files extension of markdown file is .md or .markdown.
 
 # About github
+
+![Github picture](https://www.cybersafe.news/wp-content/uploads/2020/11/github.png)
 
 It is a really helpful website it help you to store your projects in it without worrying about losing anything because of any issue you might face on your pc. Also you can show these projects to other people or make these projects private and you can edit these projets online without downloading the files to edit it.
 
