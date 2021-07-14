@@ -11,5 +11,5 @@ here is my github link: 💙
 | Growth mindset | [Growth mindset link](https://ziyadhs.github.io/Read-Notes/growth%20mindset) |
 | Read: 01 - Learning Markdown | [Read 01 link](https://ziyadhs.github.io/Read-Notes/Read:%2001%20-%20Learning%20Markdown) |
 | Read: 02 - Revisions and the Cloud | [Read 02 link](https://ziyadhs.github.io/Read-Notes/Read:%2002%20-%20Revisions%20and%20the%20Cloud) |
-| Read: 03 - Structure web pages with HTML | [Read 03 link]() |
+| Read: 03 - Structure web pages with HTML | [Read 03 link](https://ziyadhs.github.io/Read-Notes/Read03) |
 |  Read: 04 - Dynamic web pages with JavaScript | [Read 04 link]() |
