@@ -1,6 +1,6 @@
 # HTML
 
-![Markdown picture](https://professor-falken.com/wp-content/uploads/2017/07/Como-redirigir-o-redireccionar-a-otra-pagina-web-en-HTML-professor-falken.com_.jpg)
+![HTML](https://professor-falken.com/wp-content/uploads/2017/07/Como-redirigir-o-redireccionar-a-otra-pagina-web-en-HTML-professor-falken.com_.jpg)
 
 **HTML**:is the standard markup language for creating Web pages.
 
