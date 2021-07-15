@@ -12,5 +12,9 @@ here is my github link: 💙
 | Read: 01 - Learning Markdown | [Read 01 link](https://ziyadhs.github.io/Read-Notes/Read:%2001%20-%20Learning%20Markdown) |
 | Read: 02 - Revisions and the Cloud | [Read 02 link](https://ziyadhs.github.io/Read-Notes/Read:%2002%20-%20Revisions%20and%20the%20Cloud) |
 | Read: 03 - Structure web pages with HTML | [Read 03 link](https://ziyadhs.github.io/Read-Notes/Read03) |
+<<<<<<< HEAD
 |  Read: 04 - Dynamic web pages with JavaScript | [Read 04 link](https://ziyadhs.github.io/Read-Notes/Read04) |
 |  Read: 06 - Design web pages with CSS | [Read 06 link](https://ziyadhs.github.io/Read-Notes/Read06) |
+=======
+|  Read: 04 - Dynamic web pages with JavaScript | [Read 04 link](https://ziyadhs.github.io/Read-Notes/Read04) |
+>>>>>>> b0eafab8482e2f41e05b2c363ee854c656930098
