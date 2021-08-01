@@ -21,4 +21,4 @@ here is my github link: 💙
 
 | File name | Links to visit the files |
 | --- | ----------- |
-|  |  |
+| Read: 01 - Introductory HTML and JavaScript | [Read 01 link](https://ziyadhs.github.io/Read-Notes/Read01c201) |
