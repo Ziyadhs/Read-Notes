@@ -23,3 +23,4 @@ here is my github link: 💙
 | --- | ----------- |
 | Read: 01 - Introductory HTML and JavaScript | [Read 01 link](https://ziyadhs.github.io/Read-Notes/Read01c201) |
 | Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read 02 link](https://ziyadhs.github.io/Read-Notes/Read02c201) |
+| Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [Read 03 link](https://ziyadhs.github.io/Read-Notes/Read03c201) |
