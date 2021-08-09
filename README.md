@@ -28,3 +28,4 @@ here is my github link: 💙
 | Read: 05 - HTML Images; CSS Color & Text | [Read 05 link](https://ziyadhs.github.io/Read-Notes/Read05c201) |
 | Read: 06 - JS Object Literals; The DOM | [Read 06 link](https://ziyadhs.github.io/Read-Notes/Read06c201) |
 | Read: 07 - HTML Tables; JS Constructor Functions | [Read 07 link](https://ziyadhs.github.io/Read-Notes/Read07c201) |
+| Read: 08 - More CSS Layout | [Read 08 link](https://ziyadhs.github.io/Read-Notes/Read08c201) |
