@@ -30,3 +30,4 @@ here is my github link: 💙
 | Read: 07 - HTML Tables; JS Constructor Functions | [Read 07 link](https://ziyadhs.github.io/Read-Notes/Read07c201) |
 | Read: 08 - More CSS Layout | [Read 08 link](https://ziyadhs.github.io/Read-Notes/Read08c201) |
 | Read: 09 - Forms and Events | [Read 09 link](https://ziyadhs.github.io/Read-Notes/Read09c201) |
+| Read: 10 - JS Debugging | [Read 010 link](https://ziyadhs.github.io/Read-Notes/Read010c201) |
