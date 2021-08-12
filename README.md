@@ -31,3 +31,4 @@ here is my github link: 💙
 | Read: 08 - More CSS Layout | [Read 08 link](https://ziyadhs.github.io/Read-Notes/Read08c201) |
 | Read: 09 - Forms and Events | [Read 09 link](https://ziyadhs.github.io/Read-Notes/Read09c201) |
 | Read: 10 - JS Debugging | [Read 010 link](https://ziyadhs.github.io/Read-Notes/Read010c201) |
+| Read: 11 - Assorted Topics | [Read 011 link](https://ziyadhs.github.io/Read-Notes/Read011c201) |
