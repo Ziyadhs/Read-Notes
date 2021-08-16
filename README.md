@@ -33,3 +33,4 @@ here is my github link: 💙
 | Read: 10 - JS Debugging | [Read 010 link](https://ziyadhs.github.io/Read-Notes/Read010c201) |
 | Read: 11 - Assorted Topics | [Read 011 link](https://ziyadhs.github.io/Read-Notes/Read011c201) |
 | Read: 12 - Docs for the HTML &lt;canvas> Element & Chart.js | [Read 012 link](https://ziyadhs.github.io/Read-Notes/Read012c201) |
+| Read: 13 - Local Storage | [Read 013 link](https://ziyadhs.github.io/Read-Notes/Read013c201) |
