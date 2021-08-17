@@ -34,3 +34,5 @@ here is my github link: 💙
 | Read: 11 - Assorted Topics | [Read 011 link](https://ziyadhs.github.io/Read-Notes/Read011c201) |
 | Read: 12 - Docs for the HTML &lt;canvas> Element & Chart.js | [Read 012 link](https://ziyadhs.github.io/Read-Notes/Read012c201) |
 | Read: 13 - Local Storage | [Read 013 link](https://ziyadhs.github.io/Read-Notes/Read013c201) |
+| Read: 14a - CSS Transforms, Transitions, and Animations | [Read 014a link](https://ziyadhs.github.io/Read-Notes/Read014c201a) |
+| Read: 14b | [Read 014b link](https://ziyadhs.github.io/Read-Notes/Read014c201b) |
