@@ -42,4 +42,4 @@ here is my github link: 💙
 
 | File name | Links to visit the files |
 | --- | ----------- |
-| Read: Class 01| [Read 01 link]() |
+| Read: Class 01| [Read 01 link](https://ziyadhs.github.io/Read-Notes/Read01c301) |
