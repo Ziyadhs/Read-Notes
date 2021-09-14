@@ -45,3 +45,4 @@ here is my github link: 💙
 | Read: Class 01| [Read 01 link](https://ziyadhs.github.io/Read-Notes/301/Read01c301) |
 | Read: Class 02| [Read 02 link](https://ziyadhs.github.io/Read-Notes/301/Read02c301) |
 | Read: Class 03| [Read 03 link](https://ziyadhs.github.io/Read-Notes/301/Read03c301) |
+| Read: Class 04| [Read 04 link](https://ziyadhs.github.io/Read-Notes/301/Read04c301) |
