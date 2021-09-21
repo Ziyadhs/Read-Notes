@@ -50,3 +50,4 @@ here is my github link: 💙
 | Read: Class 06| [Read 06 link](https://ziyadhs.github.io/Read-Notes/301/Read06c301) |
 | Read: Class 07| [Read 07 link](https://ziyadhs.github.io/Read-Notes/301/Read07c301) |
 | Read: Class 08| [Read 08 link](https://ziyadhs.github.io/Read-Notes/301/Read08c301) |
+| Read: Class 09| [Read 09 link](https://ziyadhs.github.io/Read-Notes/301/Read09c301) |
