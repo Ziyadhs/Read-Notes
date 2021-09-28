@@ -55,3 +55,4 @@ here is my github link: 💙
 | Read: Class 11| [Read 11 link](https://ziyadhs.github.io/Read-Notes/301/Read11c301) |
 | Read: Class 12| [Read 12 link](https://ziyadhs.github.io/Read-Notes/301/Read12c301) |
 | Read: Class 13| [Read 13 link](https://ziyadhs.github.io/Read-Notes/301/Read13c301) |
+| Read: Class 14| [Read 14 link](https://ziyadhs.github.io/Read-Notes/301/Read14c301) |
